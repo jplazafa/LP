@@ -45,5 +45,8 @@ Este projeto consiste no desenvolvimento de um sistema para vendas de relógios 
   ![GIF da Aplicação](https://github.com/jplazafa/LP/blob/main/Imagens/LP_GIF.gif)
 ----------------
   **Considerações Finais**
-Este projeto foi desenvolvido como parte da avaliação da disciplina de Linguagem de Programação. Qualquer dúvida ou sugestão de melhoria, sinta-se à vontade para entrar em contato.
+  
+Este projeto foi desenvolvido como parte da avaliação da disciplina de Linguagem de Programação. 
+
+Qualquer dúvida ou sugestão de melhoria, sinta-se à vontade para entrar em contato.
   
