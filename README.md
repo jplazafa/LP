@@ -3,7 +3,7 @@
  **Descrição do Projeto** 
 
 Este projeto consiste no desenvolvimento de um sistema para vendas de relógios Rolex, utilizando Java Desktop com a biblioteca Swing. O sistema inclui funcionalidades básicas de e-commerce, como exibição de produtos, login de usuários, carrinho de compras e checkout.
-----------------
+
 
 **Funcionalidades Implementadas:**
 
